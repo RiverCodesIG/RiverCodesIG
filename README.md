@@ -1,6 +1,6 @@
 ### Nyaaa, I'm River!
 
-- 😄 Pronouns: she/her
+- 😄 My pronouns are she/her.
 - 🌱 I’m currently learning Java.
 - ⚡ Fun fact: Honey never spoils.
 
