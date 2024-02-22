@@ -1,7 +1,6 @@
-### Nyaaa, I'm River!
+### Nyaaaa, I'm River!
 
-- 😄 My pronouns are she/her.
+- 😄 My pronouns are she/they.
 - 🌱 I’m currently learning Java.
-- ⚡ Fun fact: Honey never spoils.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/795038338494890015?showDisplayName=true&idleMessage=Probably%20meowing...)](https://discord.com/users/795038338494890015)
