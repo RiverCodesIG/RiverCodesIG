@@ -1,6 +1,6 @@
-## Wrufff, I'm River!
+## Hi, I'm River!
 
-- 😄 My pronouns are she/they.
+- 😄 My pronouns are she/her.
 - 🌱 I’m currently learning Java and Kotlin.
 - 💻 I use IntelliJ IDEA.
 
