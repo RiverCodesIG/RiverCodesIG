@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm River!</h1>
-<h3 align="center">A novice Kotlin developer from New York.</h3>
+# Hi 👋, I'm River!
+### A novice Kotlin developer from New York.
 
 - 🔭 I’m currently working on [Nebular](https://github.com/Nebular-Tweaks)
 
 - 🌱 I’m currently learning **Kotlin, Java, and HTML/CSS.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <img src="https://lanyard.cnrad.dev/api/795038338494890015?showDisplayName=true&idleMessage=Probably%20barking..." /> </p>
+### Connect with me:
+<img src="https://lanyard.cnrad.dev/api/795038338494890015?showDisplayName=true&idleMessage=Probably%20barking..." />
