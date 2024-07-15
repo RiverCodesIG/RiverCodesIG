@@ -1,6 +1,2 @@
-# Hi, I'm River! 👋
-### A novice developer from New York.
-
-<!--- - 🔭 I’m currently working on [Nebular](https://github.com/Nebular-Tweaks). -->
-
-- 🌱 I’m currently learning **Kotlin, Java, Powershell and HTML/CSS.**
+## Hi, I'm River! 👋
+I'm a novice developer from New York. I’m currently learning **Kotlin, Java, Powershell and HTML/CSS.**
